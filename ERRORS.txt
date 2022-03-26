@@ -1,0 +1,5 @@
+compiling...
+Error:
+   0: Missing pragma from solidity file
+
+
