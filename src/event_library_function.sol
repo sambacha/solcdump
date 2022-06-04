@@ -1,5 +1,3 @@
-pragma solidity *;
-
 library L {
 	function f() public {
 		int x = 1;
